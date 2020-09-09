@@ -2,7 +2,7 @@ module.exports = {
     mode: 'vertical', // 可选有vertical、horizontal，默认vertical
     theme: 'blue', // 可选有blue、dark，默认blue
 
-    fesName: '多么乐金融信息处理平台', // 项目名称
+    fesName: '多么乐信息处理平台', // 项目名称
 
     FesHeader: true,
 
